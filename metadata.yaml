@@ -1,5 +1,8 @@
 _repo: The-World-Set-Free_1059
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wells, H. G. (Herbert George)
@@ -81,6 +84,8 @@ description: "The World Set Free is a novel written in 1913 and published in 191
   \ order's sages, Marcus Karenin, during his last days. Karenin argues that knowledge\
   \ and power, not love, are the essential vocation of humanity, and that \"There\
   \ is no absolute limit to either knowledge or power.\"\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1059#The-World-Set-Free
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2006-02-11'
 gutenberg_type: Text
